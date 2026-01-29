@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT_Chuoi_C_Sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b667ea0dd8fff21e64efb91254de4f9bbcf00e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb6a8de0cbc2bdf6dd096492dbd75354c9abc7d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT_Chuoi_C_Sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT_Chuoi_C_Sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
