@@ -12,3 +12,4 @@ D:\University\TKW\CSharp\BT_Chuoi_C_Sharp\BT_Chuoi_C_Sharp\obj\Debug\net8.0\refi
 D:\University\TKW\CSharp\BT_Chuoi_C_Sharp\BT_Chuoi_C_Sharp\obj\Debug\net8.0\BT_Chuoi_C_Sharp.pdb
 D:\University\TKW\CSharp\BT_Chuoi_C_Sharp\BT_Chuoi_C_Sharp\obj\Debug\net8.0\BT_Chuoi_C_Sharp.genruntimeconfig.cache
 D:\University\TKW\CSharp\BT_Chuoi_C_Sharp\BT_Chuoi_C_Sharp\obj\Debug\net8.0\ref\BT_Chuoi_C_Sharp.dll
+D:\University\TKW\CSharp\BT_Chuoi_C_Sharp\BT_Chuoi_C_Sharp\obj\Debug\net8.0\BT_Chuoi_C_Sharp.sourcelink.json
